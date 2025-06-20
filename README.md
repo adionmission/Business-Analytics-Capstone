@@ -1,6 +1,6 @@
-![GitHub License](https://img.shields.io/github/license/adionmission/Business-Analytics-Capstone)
-
 # GOYAFACE (GYF) ADVERTISEMENT BUSINESS
+
+![GitHub License](https://img.shields.io/github/license/adionmission/Business-Analytics-Capstone)
 
 As a part of Business Analytics specialization from Wharton School, University of Pennsylvania, worked on the capstone project.
 
