@@ -4,4 +4,4 @@ As a part of Business Analytics specialization from Wharton School, University o
 
 ## Presentation Slides
 
-![Introduction](Capstone Assets/Slide-1.jpg)
+![Introduction](Assets/Slide-1.jpg)
