@@ -1,4 +1,4 @@
-# GOYAFACE (GYF) ADVERTISEMENT BUSINESS
+# GOYAFACE (GYF) Advertisement Business
 
 ![GitHub License](https://img.shields.io/github/license/adionmission/Business-Analytics-Capstone)
 ![GitHub Release Date](https://img.shields.io/github/release-date/adionmission/Business-Analytics-Capstone)
