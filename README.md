@@ -1,2 +1,7 @@
-# Business-Analytics-Capstone
+# GOYAFACE (GYF) ADVERTISEMENT BUSINESS
+
 As a part of Business Analytics specialization from Wharton School, University of Pennsylvania, worked on the capstone project.
+
+## Presentation Slides
+
+![Introduction](Capstone Assets/Slide-1.jpg)
